@@ -2,7 +2,7 @@
 ---
 This repository is for Lab 4 submission.
  
-## 1.1 Android Studio and RecyclerView
+## 1.1 Android Studio and Pickers
  
 This repo is for the following Practice Set:
 - CodeLabs Android Fundamentals 04.3: Menus and Pickers
